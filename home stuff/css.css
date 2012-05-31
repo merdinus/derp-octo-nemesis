@@ -1,0 +1,41 @@
+body {
+background-image:url(images/sam.jpg);
+background-repeat:no-repeat;
+background-position:center;
+}
+
+div {
+	border:8px solid black;
+	
+}
+
+
+.siteContainer {
+	border:2px solid black;
+	margin:auto;
+	width:800px;
+	background:rgba(117,45,53,0.5);
+	z-index:2;
+}
+
+.columnOne {
+	margin:auto;
+	left: 0;
+	width: 200;
+	why won't it go the wrong size?
+	height:200;
+	border:2px solid black;
+	z-index:1;
+	color: rgb(20,200,30)
+
+   }
+
+.columnTwo {
+	margin:auto;
+	left: 0;
+	width: 200px;
+	border:2px solid black;
+	z-index:2;
+	color: rgb(200,20,30)
+   }
+   
